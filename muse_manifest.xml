@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cortadoradebotellas.000webhostapp.com" resolutions="1x" timestamp="1693172323435">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="215001685" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="guia-de-inicio-rapido.pdf" crc="3816238625" seo="true" mt="1693151424000"/>
+    <file name="plantillas-de-manijas.pdf" crc="12742456" seo="true" mt="1693151070000"/>
+    <file name="pulido-de-piezas.pdf" crc="3859218647" seo="true" mt="1693151663000"/>
+    <file name="recomendaciones-cortadora-de-botellas.doc.pdf" crc="40344116" seo="true" mt="1693151451000"/>
+    <file name="guia-informativa-adhesivos-cbot.pdf" crc="460957838" seo="true" mt="1693151505000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u251-4.png" crc="352912231" ref="index"/>
+    <file name="logo circular final png (copiar).png" crc="536186633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cortadora de botellas - volteado.jpg" crc="3874622594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2ac.png" crc="4017496396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdf-3383632_960_720.png" crc="3953630701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercado libre489186c25f45a2ba46e506f708252b1bb5fd7efc.png" crc="4216344669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="275501619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="153896844" seo="true" mt="1693172129131" redirect="true"/>
+</manifest>
